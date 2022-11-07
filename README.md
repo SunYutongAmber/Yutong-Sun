@@ -7,5 +7,5 @@ This is Yutong Sun, the research assistant at SciEcon CIC and a senior student m
 
 
 
-<div align=center><img width="140" height="150" src="https://github.com/Rising-Stars-by-Sunshine/Yutong-Sun/blob/main/image/yutong%20sun.png"/>
+<img width="280" height="300" src="https://github.com/Rising-Stars-by-Sunshine/Yutong-Sun/blob/main/image/yutong%20sun.png"/>
 
